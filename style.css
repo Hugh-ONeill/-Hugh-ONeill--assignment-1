@@ -2,3 +2,10 @@ h1.special {
 	color: red;
 }
 
+.sadness, h4 {
+	color: blue;
+}
+
+#cool {
+	font-style: italic;
+}
